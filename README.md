@@ -1,1 +1,1 @@
-# stats-workshop.github.io
+# Statistics and Data Science Workshop
