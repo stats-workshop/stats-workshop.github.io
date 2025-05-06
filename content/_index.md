@@ -43,7 +43,7 @@ We encourage all attendees, regardless of their experience level, to actively en
 - [Cynthia Rush](https://www.columbia.edu/~cgr2130/) (Columbia, USA)
 - [Alberto Gonzalez-Sanz](https://sites.google.com/view/albertogonzlezsanz/inicio) (Columbia, USA) 
 - [Richard Davis](https://sites.stat.columbia.edu/rdavis/) (Columbia, USA)
-- [Roberto Oliveira](https://sites.google.com/view/roboliv/about?authuser=0) (IMPA, USA)  
+- [Roberto Oliveira](https://sites.google.com/view/roboliv/about?authuser=0) (IMPA, Brazil)  
 - [Ivan Díaz](https://idiaz.xyz/) (NYU, USA)
 - [Andrés Felipe Barrientos](https://anfebar.github.io/) (Florida State, USA)
 - [Vidya Muthukumar](https://vmuthukumar.ece.gatech.edu/) (Georgia Institute of Technology, USA)
