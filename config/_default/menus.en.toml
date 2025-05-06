@@ -1,0 +1,30 @@
+[[main]]
+none = "none"
+
+[[main]]
+name = "Registration"
+pageRef = "registration"
+identifier = "E9fXM1ciz5"
+weight = 1
+
+
+[[main]]
+name = "Program"
+pageRef = "program"
+identifier = "1m24f1Oy7z"
+weight = 2
+
+[[main]]
+name = "Posters"
+pageRef = "posters"
+identifier = "CqbGxmcbGe"
+weight = 3
+
+[[main]]
+name = "Venue"
+pageRef = "venue"
+identifier = "mAjQUMTfYp"
+weight = 4
+
+[[footer]]
+none = "none"

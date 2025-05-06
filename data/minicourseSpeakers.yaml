@@ -1,0 +1,9 @@
+# data/minicourse-speakers.yaml
+- name: Bodhisattva Sen
+  image: /bodhi.jpg
+  url: https://sites.stat.columbia.edu/bodhi/Bodhi/Welcome.html
+  affiliation: Columbia University (USA)
+- name: Gábor Lugosi
+  image: /lugosi.jpeg
+  url: https://www.upf.edu/web/gabor-lugosi
+  affiliation: Universitat Pompeu Fabra (Spain)

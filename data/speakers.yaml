@@ -1,0 +1,9 @@
+# data/speakers.yaml
+- name: Mauricio Velasco
+  image: /mauricio.jpg
+  url: https://mauricio-velasco.github.io/webpage/index.html
+  affiliation: Universidad de la República (Brazil)
+- name: Rebecca Willett
+  image: /rebecca.jpeg
+  url: https://willett.psd.uchicago.edu/
+  affiliation: University of Chicago (USA)

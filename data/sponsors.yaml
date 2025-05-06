@@ -1,0 +1,7 @@
+# data/sponsors.yaml
+- image: /andes.png
+  url: https://www.uniandes.edu.co
+- image: /jhu.jpg
+  url: https://www.jhu.edu
+- image: /usc.png
+  url: https://www.usc.edu
