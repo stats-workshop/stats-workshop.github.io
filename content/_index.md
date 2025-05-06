@@ -49,6 +49,7 @@ We encourage all attendees, regardless of their experience level, to actively en
 - [Ivan Díaz](https://idiaz.xyz/) (NYU, USA)
 - [Andrés Felipe Barrientos](https://anfebar.github.io/) (Florida State, USA)
 - [Vidya Muthukumar](https://vmuthukumar.ece.gatech.edu/) (Georgia Institute of Technology, USA)
+
 []()
 <!-- -   [Felipe Atenas](https://sites.google.com/view/atenas-optimization?usp=sharing) (University of Melbourne, Australia) -->
 <!-- -   [Beste Basciftci](https://sites.google.com/view/bestebasciftci/)  (University of Iowa, USA) -->
