@@ -30,8 +30,6 @@ We encourage all attendees, regardless of their experience level, to actively en
 
 {{< minicourseSpeakers >}}
 
-
-
 ### Confirmed speakers {#confirmed-speakers}
 
 - [Adolfo Quiroz](https://matematicas.uniandes.edu.co/en/professors/adolfo-jose-quiroz-salazar) (Universidad de los Andes, Colombia)
@@ -42,7 +40,7 @@ We encourage all attendees, regardless of their experience level, to actively en
 - [Daniel Sanz-Alonso](https://sites.google.com/a/uchicago.edu/sanz-alonso/) (University of Chicago, USA)
 - [Keith Levin](https://pages.stat.wisc.edu/~kdlevin/) (University of Wiconsin-Madison, USA)  
 - [Debdeep Pati](https://pages.stat.wisc.edu/~dpati2/) (University of Wisconsin-Madison, USA)
-- [Cindy Rush](https://www.columbia.edu/~cgr2130/) (Columbia, USA)
+- [Cynthia Rush](https://www.columbia.edu/~cgr2130/) (Columbia, USA)
 - [Alberto Gonzalez-Sanz](https://sites.google.com/view/albertogonzlezsanz/inicio) (Columbia, USA) 
 - [Richard Davis](https://sites.stat.columbia.edu/rdavis/) (Columbia, USA)
 - [Roberto Oliveira](https://sites.google.com/view/roboliv/about?authuser=0) (IMPA, USA)  
