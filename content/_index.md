@@ -17,7 +17,7 @@ Our program is designed to benefit participants at all career stages, from stude
 
 We encourage all attendees, regardless of their experience level, to actively engage in discussions and take full advantage of the collaborative environment. Join us in Bogotá for this enriching academic experience that promises to inspire and connect the next generation of statisticians!
 
-**When?** [December 9-13, 2025](https://calendar.app.google/UTpVtMKDDVuu6zeE6).
+**When?** [December 9-12, 2025](https://calendar.app.google/UTpVtMKDDVuu6zeE6).
 
 **Where?** [Universidad de los Andes in Bogota, Colombia](https://maps.app.goo.gl/GtgswKC2kWU5HfUV7).
 
