@@ -1,1 +1,1 @@
-# Statistics and Data Science Workshop
+# Statistics and Data Science Workshop in Colombia
