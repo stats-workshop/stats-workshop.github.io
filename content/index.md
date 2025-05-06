@@ -7,7 +7,7 @@ type = "pages"
 
 Join us for the "Optimization Workshop: Theory, Algorithms, and Applications" in the heart of Colombia. This event will explore the latest trends in Operations Research, Mathematical Programming, and Machine Learning.
 
-**When?** [December 9-13, 2024](https://calendar.app.google/UTpVtMKDDVuu6zeE6).
+**When?** [December 9-12, 2024](https://calendar.app.google/UTpVtMKDDVuu6zeE6).
 
 **Where?** [Universidad de los Andes in Bogota, Colombia](https://maps.app.goo.gl/GtgswKC2kWU5HfUV7).
 
