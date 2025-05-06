@@ -34,6 +34,7 @@ We encourage all attendees, regardless of their experience level, to actively en
 
 - [Adolfo Quiroz](https://matematicas.uniandes.edu.co/en/professors/adolfo-jose-quiroz-salazar) (Universidad de los Andes, Colombia)
 - [Ashwin Pananjady](https://sites.gatech.edu/ashwin-pananjady/) (Georgia Institute of Technology, USA)
+- [Juan Camilo Sosa](https://sites.google.com/view/juansosa/main) (UNAL, Colombia)
 - [Gloria Buritica](https://gburitica.github.io/) (Paris-Saclay, France)
 - [Mónica Ribero](http://www.mribero.com/) (Google, USA)
 - [Nabarun Deb](https://nabarund.github.io/) (University of Chicago, USA)
