@@ -1,7 +1,7 @@
 # data/speakers.yaml
 
 - name: Marina Meila
-  image: 
+  image: /marina.jpg
   url: https://sites.stat.washington.edu/mmp/
   affiliation: University of Washington (USA)
 - name: Mauricio Velasco
