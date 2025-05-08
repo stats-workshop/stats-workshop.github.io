@@ -33,6 +33,7 @@ We encourage all attendees, regardless of their experience level, to actively en
 ### Confirmed speakers {#confirmed-speakers}
 
 - [Adolfo Quiroz](https://matematicas.uniandes.edu.co/en/professors/adolfo-jose-quiroz-salazar) (Universidad de los Andes, Colombia)
+- [Aleksandra (Seša) Slavković](https://sites.psu.edu/sesa/) (Penn State University, USA)
 - [Ashwin Pananjady](https://sites.gatech.edu/ashwin-pananjady/) (Georgia Institute of Technology, USA)
 - [Jelena Bradic](http://www.jelenabradic.net/) (Cornell University, USA)
 - [Juan Camilo Sosa](https://sites.google.com/view/juansosa/main) (UNAL, Colombia)
