@@ -49,7 +49,7 @@ We encourage all attendees, regardless of their experience level, to actively en
 - [Nabarun Deb](https://nabarund.github.io/) (University of Chicago, USA)
 - [Richard Davis](https://sites.stat.columbia.edu/rdavis/) (Columbia University, USA)
 - [Roberto Oliveira](https://sites.google.com/view/roboliv/about?authuser=0) (IMPA, Brazil)  
-- [Soledad Villar](https://www.ams.jhu.edu/villar/) (Johns Hopkins University)
+- [Soledad Villar](https://www.ams.jhu.edu/villar/) (Johns Hopkins University, USA)
 - [Vidya Muthukumar](https://vmuthukumar.ece.gatech.edu/) (Georgia Institute of Technology, USA)
 
 []()
