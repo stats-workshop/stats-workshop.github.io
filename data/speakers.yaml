@@ -1,5 +1,8 @@
 # data/speakers.yaml
-
+- name: Mahdi Soltanolkotabi
+  image: /mahdi.jpeg
+  url: https://viterbi-web.usc.edu/~soltanol/
+  affiliation: University of Southern California (USA)
 - name: Marina Meila
   image: /marina.jpg
   url: https://sites.stat.washington.edu/mmp/
