@@ -84,7 +84,7 @@ We encourage all attendees, regardless of their experience level, to actively en
 
 -   [Marco Avella-Medina](https://sites.google.com/site/marcoavellamedina/home) (Columbia University, USA)
 -   [Mateo Díaz](https://mateodd25.github.io/) (Johns Hopkins University, USA)
--   [Nicolás García Trillos](https://www.nicolasgarciat.com/) (University of Wisconsin-Madison, USA)
+-   [Nicolás García Trillos](https://www.nicolasgarciat.com/) (University of Wisconsin-Madison)
 -   [Mauricio Junca](https://math.uniandes.edu.co/~mjunca/) (Universidad de los Andes, Colombia)
 
 
