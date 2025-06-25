@@ -26,7 +26,7 @@ We encourage all attendees, regardless of their experience level, to actively en
 
 {{< speakers >}}
 
-### Minicourse lcturers {#keynote-speakers}
+### Minicourse lecturers {#keynote-speakers}
 
 {{< minicourseSpeakers >}}
 
