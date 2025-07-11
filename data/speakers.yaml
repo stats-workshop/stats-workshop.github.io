@@ -1,6 +1,6 @@
 # data/speakers.yaml
 - name: Mahdi Soltanolkotabi
-  image: /mahdi.jpeg
+  image: /mahdi.jpg
   url: https://viterbi-web.usc.edu/~soltanol/
   affiliation: University of Southern California (USA)
 - name: Marina Meila
@@ -12,6 +12,6 @@
   url: https://mauricio-velasco.github.io/webpage/index.html
   affiliation: Universidad de la República (Uruguay)
 - name: Rebecca Willett
-  image: /rebecca.jpeg
+  image: /rebecca.jpg
   url: https://willett.psd.uchicago.edu/
   affiliation: University of Chicago (USA)
