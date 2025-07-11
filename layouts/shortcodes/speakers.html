@@ -1,34 +1,33 @@
 <!-- layouts/shortcodes/speakers.html -->
 <div class="speakers-container">
-    {{ range .Site.Data.speakers }}
-    <div class="speaker">
-        <a href="{{ .url }}" target="_blank">
-            <img src="{{ .image }}" alt="{{ .name }}">
-        </a>
-        <a href="{{ .url }}" target="_blank">
-            <p>{{ .name }}</p>
-        </a>
-        <p> {{ .affiliation}}</p>
-    </div>
-    {{ end }}
+  {{ range .Site.Data.speakers }}
+  <div class="speaker">
+    <a href="{{ .url }}" target="_blank">
+      <img src="{{ .image }}" alt="{{ .name }}" />
+    </a>
+    <a href="{{ .url }}" target="_blank">
+      <p>{{ .name }}</p>
+    </a>
+    <p>{{ .affiliation}}</p>
+  </div>
+  {{ end }}
 </div>
 <style>
- .speakers-container {
-     display: flex;
-     flex-wrap: wrap;
-     justify-content: center;
-     align-items: center; /* Center items vertically */
- }
- .speaker {
-     margin: 10px;
-     text-align: center;
- }
- .speaker img {
-     max-width: 200px;
-     border-radius: 10%;
- }
- .speaker p {
-     margin-top: 10px;
-     font-weight: bold;
- }
+  .speakers-container {
+    display: flex;
+    flex-wrap: nowrap; /* ← no wrapping */
+    justify-content: center;
+    align-items: flex-start;
+    overflow-x: auto; /* ← if they overflow, scroll horizontally */
+  }
+
+  .speaker {
+    flex: 0 0 200px; /* ← each card is exactly 200px wide */
+    margin: 10px;
+    text-align: center;
+  }
+  .speaker img {
+    max-width: 100%;
+    border-radius: 10%;
+  }
 </style>
