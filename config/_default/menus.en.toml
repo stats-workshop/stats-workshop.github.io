@@ -21,10 +21,17 @@ identifier = "CqbGxmcbGe"
 weight = 3
 
 [[main]]
+name = "Travel grants"
+pageRef = "grants"
+identifier = "CqbGxmcei"
+weight = 4
+
+
+[[main]]
 name = "Venue"
 pageRef = "venue"
 identifier = "mAjQUMTfYp"
-weight = 4
+weight = 5
 
 [[footer]]
 none = "none"
