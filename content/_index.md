@@ -33,7 +33,7 @@ We encourage all attendees, regardless of their experience level, to actively en
 ### Confirmed speakers {#confirmed-speakers}
 
 - [Adolfo Quiroz](https://matematicas.uniandes.edu.co/en/professors/adolfo-jose-quiroz-salazar) (Universidad de los Andes, Colombia)
-- [Alberto Gonzalez-Sanz](https://sites.google.com/view/albertogonzlezsanz/inicio) (Columbia, USA)
+- [Alberto Gonzalez-Sanz](https://sites.google.com/view/albertogonzlezsanz/inicio) (Columbia University, USA)
 - [Aleksandra (Seša) Slavković](https://sites.psu.edu/sesa/) (Penn State University, USA)
 - [Andrés Felipe Barrientos](https://anfebar.github.io/) (Florida State, USA)
 - [Ashwin Pananjady](https://sites.gatech.edu/ashwin-pananjady/) (Georgia Institute of Technology, USA)
