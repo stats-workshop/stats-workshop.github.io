@@ -21,7 +21,7 @@ You can submit your application in either English or Spanish. We highlight that 
 | Event                 | Date            |
 |-----------------------|-----------------|
 | Application deadline  | October 30 2025 |
-| Decision notification | Novebmer 5 2025 |
+| Decision notification | November 5 2025 |
 
 
 
