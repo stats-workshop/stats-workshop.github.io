@@ -8,12 +8,11 @@ layout = "simple"
 
 | Type of Attendant | Registration Price |
 |-------------------|--------------------|
-| Student           | 70 COP             |
+| Student           | 20 USD             |
 | Nonstudent        | 70 USD             |
 
 ## Link to registration {#link}
-TBD.
-<!-- [Please register here](https://recaudos.uniandes.edu.co/pagos/registro-usuario.xhtml) -->
+[Please register here](https://evento.uniandes.edu.co/en/stats-workshop25)
 
 <!-- ## Instructions {#instructions} -->
 
