@@ -15,7 +15,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/about/</guid>
-      <description>Join us for the &amp;ldquo;Optimization Workshop: Theory, Algorithms, and Applications&amp;rdquo; in the heart of Colombia.</description>
+      <description></description>
       
     </item>
     
@@ -25,7 +25,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/speakers/</guid>
-      <description>Join us for this optimization workshop in the heart of Colombia, covering recent trends in Operations Research, Mathematical Programming and Machine Learning.</description>
+      <description></description>
       
     </item>
     
@@ -35,7 +35,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/posters/</guid>
-      <description>TBD.</description>
+      <description></description>
       
     </item>
     
@@ -45,7 +45,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/program/</guid>
-      <description>TBD.</description>
+      <description></description>
       
     </item>
     
@@ -55,7 +55,17 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/registration/</guid>
-      <description>TBD.</description>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Travel grants</title>
+      <link>http://localhost:1313/grants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/grants/</guid>
+      <description></description>
       
     </item>
     
@@ -65,7 +75,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/venue/</guid>
-      <description>The workshop will take place at Universidad de Los Andes in Bogota, Colombia.</description>
+      <description></description>
       
     </item>
     

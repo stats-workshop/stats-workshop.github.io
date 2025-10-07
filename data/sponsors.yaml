@@ -1,9 +1,15 @@
 # data/sponsors.yaml
 - image: /andes.png
   url: https://www.uniandes.edu.co
-- image: /jhu.jpg
-  url: https://www.jhu.edu
+- image: /columbia.png
+  url: https://www.columbia.edu
 - image: /google.png
   url: https://www.google.com
+- image: /jhu.jpg
+  url: https://www.jhu.edu
+- image: /nsf.jpg
+  url: https://www.nsf.gov
 - image: /pensadores.png
   url: https://internacionalizacion.uniandes.edu.co/cooperaci%C3%B3n-para-la-investigaci%C3%B3n/pensadores-del-mundo-2
+- image: /uw.png
+  url: https://www.wisc.edu/
