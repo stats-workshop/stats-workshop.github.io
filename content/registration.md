@@ -14,7 +14,6 @@ layout = "simple"
 ## Link to registration {#link}
 [Please register here](https://evento.uniandes.edu.co/en/stats-workshop25)
 
+Deadline: November 10 2025
+
 <!-- ## Instructions {#instructions} -->
-
-<!-- TBD -->
-
