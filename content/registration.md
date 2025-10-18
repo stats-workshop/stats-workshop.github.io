@@ -11,6 +11,8 @@ layout = "simple"
 | Student           | 20 USD             |
 | Nonstudent        | 70 USD             |
 
+Registration includes coffee breaks and social dinner.
+
 ## Link to registration {#link}
 [Please register here](https://evento.uniandes.edu.co/en/stats-workshop25)
 
