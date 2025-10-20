@@ -10,4 +10,5 @@ layout = "simple"
 
 ## Schedule {#schedule} 
 
-<img width="673" height="497" alt="image" src="https://github.com/user-attachments/assets/a87b6265-893f-4b64-86c7-3fb5aaaf22fa" />
+<img width="683" height="492" alt="image" src="https://github.com/user-attachments/assets/0f75bc47-c5ea-4a4a-b5e1-7b0401f68aae" />
+
