@@ -37,7 +37,6 @@ We encourage all attendees, regardless of their experience level, to actively en
 - [Aleksandra (Seša) Slavković](https://sites.psu.edu/sesa/) (Penn State University, USA)
 - [Andrés Felipe Barrientos](https://anfebar.github.io/) (Florida State, USA)
 - [Ashwin Pananjady](https://sites.gatech.edu/ashwin-pananjady/) (Georgia Institute of Technology, USA)
-- [Courtney Paquette](https://cypaquette.github.io/) (McGill University, Canada)
 - [Cynthia Rush](https://www.columbia.edu/~cgr2130/) (Columbia University, USA)
 - [Daniel Sanz-Alonso](https://sites.google.com/a/uchicago.edu/sanz-alonso/) (University of Chicago, USA)
 - [Debdeep Pati](https://pages.stat.wisc.edu/~dpati2/) (University of Wisconsin-Madison, USA)
