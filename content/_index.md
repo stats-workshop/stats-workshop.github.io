@@ -42,7 +42,6 @@ We encourage all attendees, regardless of their experience level, to actively en
 - [Debdeep Pati](https://pages.stat.wisc.edu/~dpati2/) (University of Wisconsin-Madison, USA)
 - [Gloria Buritica](https://gburitica.github.io/) (Paris-Saclay, France)
 - [Ivan Díaz](https://idiaz.xyz/) (NYU, USA)
-- [Jelena Bradic](http://www.jelenabradic.net/) (Cornell University, USA)
 - [Juan Camilo Sosa](https://sites.google.com/view/juansosa/main) (UNAL, Colombia)
 - [Keith Levin](https://pages.stat.wisc.edu/~kdlevin/) (University of Wiconsin-Madison, USA)
 - [Mohamed Ndaoud](https://sites.google.com/view/mndaoud/home) (ESSEC Business School, France)
