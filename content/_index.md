@@ -40,7 +40,6 @@ We encourage all attendees, regardless of their experience level, to actively en
 - [Cynthia Rush](https://www.columbia.edu/~cgr2130/) (Columbia University, USA)
 - [Daniel Sanz-Alonso](https://sites.google.com/a/uchicago.edu/sanz-alonso/) (University of Chicago, USA)
 - [Debdeep Pati](https://pages.stat.wisc.edu/~dpati2/) (University of Wisconsin-Madison, USA)
-- [Gloria Buritica](https://gburitica.github.io/) (Paris-Saclay, France)
 - [Gonzalo Mena](https://gomena.github.io/) (Carnegie Mellon University, USA)
 - [Ivan Díaz](https://idiaz.xyz/) (NYU, USA)
 - [Juan Camilo Sosa](https://sites.google.com/view/juansosa/main) (UNAL, Colombia)
