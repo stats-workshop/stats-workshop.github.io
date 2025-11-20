@@ -36,7 +36,7 @@ We encourage all attendees, regardless of their experience level, to actively en
 - [Alberto Gonzalez-Sanz](https://sites.google.com/view/albertogonzlezsanz/inicio) (Columbia University, USA)
 - [Ana María Estrada](https://sites.google.com/view/anamariaestradagomez/ameg) (Purdue University, USA) 
 - [Andrés Felipe Barrientos](https://anfebar.github.io/) (Florida State, USA)
-- [Camilo Hernández](https://sites.google.com/view/camilohernandez/home) (USC, USA)
+- [Camilo Hernández](https://sites.google.com/view/camilohernandez/home) (University of Southern California, USA)
 - [Cynthia Rush](https://www.columbia.edu/~cgr2130/) (Columbia University, USA)
 - [Daniel Sanz-Alonso](https://sites.google.com/a/uchicago.edu/sanz-alonso/) (University of Chicago, USA)
 - [Debdeep Pati](https://pages.stat.wisc.edu/~dpati2/) (University of Wisconsin-Madison, USA)
