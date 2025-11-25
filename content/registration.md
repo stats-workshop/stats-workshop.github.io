@@ -14,8 +14,8 @@ layout = "simple"
 Registration includes coffee breaks and social dinner.
 
 ## Link to registration {#link}
-[Please register here](https://evento.uniandes.edu.co/en/stats-workshop25)
 
-Deadline: November 20 2025
+SOLD OUt
 
-<!-- ## Instructions {#instructions} -->
+<!-- ## Instructions {#instructions} 
+[Please register here](https://evento.uniandes.edu.co/en/stats-workshop25)-->
