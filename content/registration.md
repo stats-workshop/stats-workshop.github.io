@@ -15,7 +15,7 @@ Registration includes coffee breaks and social dinner.
 
 ## Link to registration {#link}
 
-SOLD OUt
+SOLD OUT
 
 <!-- ## Instructions {#instructions} 
 [Please register here](https://evento.uniandes.edu.co/en/stats-workshop25)-->
