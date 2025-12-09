@@ -5,8 +5,13 @@ draft = false
 layout = "simple"
 +++
 
-The workshop will take place at Universidad de Los Andes in Bogota, Colombia. <br/>
+The workshop will take place at Universidad de Los Andes in Bogota, Colombia. The campus is closed to the public, you should [enter through the Roberto Franco Building](https://maps.app.goo.gl/NHcd1iTtDnT2Z6Wc7) (with the QR code we sent you to your email). <br/>
 
+-   Talks will take place in **[Building B, Room 402](https://maps.app.goo.gl/bapkoU6SRtkJ4ddz7)**. Be careful, if you Google "Edificio B, Uniandes" the location is wrong use the position we link [here](https://maps.app.goo.gl/bapkoU6SRtkJ4ddz7). <br/>
+-   The posters will be presented on the **[10th floor of Building SD.](https://maps.app.goo.gl/smw4CWMZzjThQXsn6)** <br/>
+-   The event dinner will be held at **[Origen Bistro](https://maps.app.goo.gl/eJ5K6ZQBN9thHiWT6)** (a couple of blocks away from campus). <br/>
+
+We compiled a map with [all relevant locations here](https://www.google.com/maps/d/u/1/edit?mid=1fHsylGBG8pqSOZTxYFKQYM7ZqK-nLr8&usp=sharing). <br/>
 
 ## About Bogota {#about-bogota}
 
